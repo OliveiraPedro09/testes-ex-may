@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(dir \"d:\\\\fatec\\\\testes-ex-may\")",
-      "Bash(npm --version)"
-    ]
-  }
-}
