@@ -1,0 +1,20 @@
+{
+  "name": "testes-ex-may",
+  "version": "1.0.0",
+  "description": "Exercicios de Testes de Software - FATEC (TypeScript + Jest)",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "test:coverage": "jest --coverage",
+    "test:ex1": "jest tests/exercicio1",
+    "test:ex2": "jest tests/exercicio2",
+    "test:ex3": "jest tests/exercicio3"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.11.30",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.4.3"
+  }
+}
